@@ -1,0 +1,6 @@
+1. Instalar Node.js
+2. Generar proyecto react en un directorio mediante consola:
+	npx create-react-app nombreDeLaApp
+3. Dentro de la carpeta creada:
+	npm start
+4. Ver el proyecto en localhost:3000
